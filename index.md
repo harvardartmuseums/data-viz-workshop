@@ -1,7 +1,7 @@
 # Workshop recap:
 
-* What data do museums have?
-  * Data about objects
+- What data do museums have?
+  - Data about objects
 - - - Dates, titles, processed data like colors...
 - - Data about data
 - - - Who entered a data point and when, how complete is a record...
