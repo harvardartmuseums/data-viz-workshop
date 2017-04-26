@@ -1,5 +1,6 @@
 # Workshop recap:
 
+
 - What data do museums have?
   - Data about objects
     - Dates, titles, processed data like colors...
@@ -10,10 +11,12 @@
   - Data about the museum itself
     - Building data, visitor data...
 
+
 - What kinds of data can't we share?
   - Data impacting privacy
   - Data impacting the museums' security
   - Data we don't have&mdash;all data comes from research
+
 
 - How do we distribute the data we can share?
   - Our public-facing API
@@ -21,10 +24,12 @@
     - Read more about how to format requests here: [https://github.com/harvardartmuseums/api-docs](https://github.com/harvardartmuseums/api-docs)
     Interfaces we've built on the API&mdash;like our collections search [http://www.harvardartmuseums.org/collections](http://www.harvardartmuseums.org/collections)
 
+
 - What is an API?
   - A communication tool between computers
     - Your computer asks ours for information about the collections
     - Ours sends information back in a predetermined format
+
 
 - What are some examples of projects you can build with our API?
   - Art Explorer
@@ -55,6 +60,7 @@
     - Uses IIIF to produce jumbled images composed of strips of images in the collections
     - View: [https://exquisite-iiif-demo.herokuapp.com/corpse](https://exquisite-iiif-demo.herokuapp.com/corpse)
 
+
 - How can you get started on a project using our API?
   - Get set up with the API
     - Request your own key here: [http://www.harvardartmuseums.org/collections/api](http://www.harvardartmuseums.org/collections/api)
@@ -65,15 +71,20 @@
     - [https://github.com/harvardartmuseums](https://github.com/harvardartmuseums)
 
 
+
+
  
 # Resources:
+
 
 - API links
   - Request a key: [http://www.harvardartmuseums.org/collections/api](http://www.harvardartmuseums.org/collections/api)
   - Documentation: [https://github.com/harvardartmuseums/api-docs](https://github.com/harvardartmuseums/api-docs)
 
+
 - Suns Explorer with an API query editor and sample JSON viewer
   - [http://apps.harvardartmuseums.org/suns-JSON-viewer/index.html](http://apps.harvardartmuseums.org/suns-JSON-viewer/index.html)
+
 
 - Harvard Art Museums Projects discussed
   - Art Explorer: [http://apps.harvardartmuseums.org/art-explorer/](http://apps.harvardartmuseums.org/art-explorer/)
@@ -85,6 +96,7 @@
   - Exquisite IIIF Corpse: [https://exquisite-iiif-demo.herokuapp.com/corpse](https://exquisite-iiif-demo.herokuapp.com/corpse)
   - Sources for these and other projects: [https://github.com/harvardartmuseums](https://github.com/harvardartmuseums)
 
+
 - External examples
   - A visualization of cultural capitals as represented by birth and death places of notable figures
     - [https://www.fastcodesign.com/3033877/infographic-of-the-day/the-history-of-cultural-migration-mapped](https://www.fastcodesign.com/3033877/infographic-of-the-day/the-history-of-cultural-migration-mapped)
@@ -94,6 +106,7 @@
     - [http://www.ifweassume.com/2013/11/the-dimensions-of-art.html](http://www.ifweassume.com/2013/11/the-dimensions-of-art.html)
   - A list of other museums' APIs
     - [http://museum-api.pbworks.com/w/page/21933420/Museum%C2%A0APIs](http://museum-api.pbworks.com/w/page/21933420/Museum%C2%A0APIs)
+
 
 - Relevant tools
   - Processing: [https://processing.org/](https://processing.org/)
