@@ -22,7 +22,7 @@
   - Our public-facing API
     - Request your own key here: [http://www.harvardartmuseums.org/collections/api](http://www.harvardartmuseums.org/collections/api)
     - Read more about how to format requests here: [https://github.com/harvardartmuseums/api-docs](https://github.com/harvardartmuseums/api-docs)
-    Interfaces we've built on the API&mdash;like our collections search [http://www.harvardartmuseums.org/collections](http://www.harvardartmuseums.org/collections)
+  - Interfaces we've built on the API&mdash;like our collections search [http://www.harvardartmuseums.org/collections](http://www.harvardartmuseums.org/collections)
 
 
 - What is an API?
